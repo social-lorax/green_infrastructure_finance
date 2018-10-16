@@ -7,7 +7,8 @@ Project analyzing finance for green infrastructure projects in urabn settings ac
 
 [Data source](https://www.asla.org/stormwatercasestudies.aspx) \
 [Analysis (Jupyter notebook)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.ipynb),
-[(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf)  
+[(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf) \
+[Findings](https://github.com/social-lorax/green_infrastructure_finance/blob/master/ASLA.xlsx)
 ****
 
 <img src="http://www.townofdewitt.com/images/photos/Photo652large.jpg" alt="" data-canonical-src="" width="600" height="200" />
