@@ -14,8 +14,8 @@ Project analyzing finance for green infrastructure projects in urban settings ac
 <img src="http://www.townofdewitt.com/images/photos/Photo652large.jpg" alt="" data-canonical-src="" width="600" height="200" />
 
 [Data source](http://savetherain.us/green-project-list/)  
-[Analysis (Jupyter notebook)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.ipynb)
-[(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf) 
+[Analysis (Jupyter notebook)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.ipynb), 
+[(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf) \
 [General Findings (excel)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/SaveRain_Other.xlsx), [(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/Save_Rain.pdf) \
 [Syracuse Findings (excel)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/SaveRain_Syracuse.xlsx), [(pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/Save_Rain.pdf)
 ****
