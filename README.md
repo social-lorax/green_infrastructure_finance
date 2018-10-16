@@ -5,12 +5,16 @@ Project analyzing finance for green infrastructure projects in urabn settings ac
 
 <img src="https://www.totallandscapecare.com/wp-content/uploads/sites/5/2016/04/ASLA-logo.jpg" alt="" data-canonical-src="" width="600" height="200" />
 
-[Data source](https://www.asla.org/stormwatercasestudies.aspx)  
+[Data source](https://www.asla.org/stormwatercasestudies.aspx)
+[Analysis (Jupyter notebook)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.ipynb)
+[Analysis (pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf)
   
   
 <img src="http://www.townofdewitt.com/images/photos/Photo652large.jpg" alt="" data-canonical-src="" width="600" height="200" />
 
 [Data source](http://savetherain.us/green-project-list/)  
+[Analysis (Jupyter notebook)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.ipynb)
+[Analysis (pdf)](https://github.com/social-lorax/green_infrastructure_finance/blob/master/database_analysis.pdf)
   
   
 <img src="https://plus.efc.ny.gov/PLUS/Content/Environmental%20Facilities%20Corporation.png" alt="" data-canonical-src="" width="600" height="200" />
